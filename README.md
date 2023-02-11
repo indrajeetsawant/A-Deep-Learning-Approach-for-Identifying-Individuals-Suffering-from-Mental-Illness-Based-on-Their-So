@@ -1,4 +1,4 @@
-# A-Deep-Learning-Approach-for-Identifying-Individuals-Suffering-from-Mental-Illness-Based-on-Their-So
+# A Deep Learning Approach for Identifying Individuals Suffering from Mental Illness Based on Their Social Media Posts
 There are many online groups and forums dedicated to mental health, which can provide support and advice for those
 who are struggling. By normalizing the discussion of mental health issues, social media is helping to break down thebarriers that prevent people from seeking help. This is especially important for people who may not have anyone in
 their offline life that they feel comfortable talking to about
